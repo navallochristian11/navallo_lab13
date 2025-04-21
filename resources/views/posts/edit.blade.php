@@ -1,4 +1,4 @@
-@extends( 'layout')
+@extends('layout')
 
 @section('content')
 <h1>Edit Post</h1>
